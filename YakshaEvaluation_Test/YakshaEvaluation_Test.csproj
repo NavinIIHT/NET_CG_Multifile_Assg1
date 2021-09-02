@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,13 +16,13 @@
 
   <ItemGroup>
     <Reference Include="DateClass">
-      <HintPath>..\DateClass\bin\Debug\netcoreapp3.1\DateClass.dll</HintPath>
+      <HintPath>..\DateClass\bin\Debug\netcoreapp2.2\DateClass.dll</HintPath>
     </Reference>
     <Reference Include="HCF">
-      <HintPath>..\HCF\bin\Debug\netcoreapp3.1\HCF.dll</HintPath>
+      <HintPath>..\HCF\bin\Debug\netcoreapp2.2\HCF.dll</HintPath>
     </Reference>
     <Reference Include="IntToString">
-      <HintPath>..\IntToString\bin\Debug\netcoreapp3.1\IntToString.dll</HintPath>
+      <HintPath>..\IntToString\bin\Debug\netcoreapp2.2\IntToString.dll</HintPath>
     </Reference>
   </ItemGroup>
 
